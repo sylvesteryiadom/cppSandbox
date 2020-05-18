@@ -3,13 +3,12 @@ using namespace std;
 
 int main()
 {
-    double earthWeight;
-    int fightPlanet;
+    int earthWeight, fightPlanet;
     cout << "What is your earth weight? \n";
     cin >> earthWeight;
     cout << "Enter a number for the planet you want to fight on.\n";
     cin >> fightPlanet;
-    fightPlanet = 0;
+    fightPlanet = 6;
 
     switch (fightPlanet)
     {
