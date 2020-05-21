@@ -21,5 +21,5 @@ int main()
 
     MonthsofTheYear ewMonth = April;
 
-    cout << ewMonth << endl;
+    cout << ewMonth;
 }
